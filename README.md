@@ -162,3 +162,7 @@ If you want to donate to keep this firmware updated, please use the link below:
 ```zsh
 brew install --cask gcc-arm-embedded
 ```
+## Ubuntu install cross compile gcc
+```bash
+sudo apt -y install gcc-arm-none-eabi
+```
