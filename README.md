@@ -161,6 +161,7 @@ If you want to donate to keep this firmware updated, please use the link below:
 ## MACOS install cross compile gcc
 ```zsh
 brew install --cask gcc-arm-embedded
+brew install stlink
 ```
 ## Ubuntu install cross compile gcc
 ```bash
